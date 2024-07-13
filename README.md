@@ -29,8 +29,8 @@ This project provides network administrators with a centralized dashboard to mon
     cd Network-Monitoring-tool
 
 ## Screenshots
-![LoginPage Screenshot](dash.png)
-![Monitor tool Screenshot](dash.png)
+![LoginPage Screenshot](Login/login.png)
+![Monitor tool Screenshot](C#/monitor.png)
 
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
