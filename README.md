@@ -30,7 +30,7 @@ This project provides network administrators with a centralized dashboard to mon
 
 ## Screenshots
 ![Login Page Screenshot](Login/login.png)
-![Monitor Page Screenshot](C#/monitor.png)
+![Monitor Page Screenshot](Login/monitor.png)
 
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
