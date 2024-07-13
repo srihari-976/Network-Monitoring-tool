@@ -22,11 +22,15 @@ This project provides network administrators with a centralized dashboard to mon
 
 ## Installation
 
-1. **Clone the Repository**:
+  **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/srihari-976/Network-Monitoring-tool.git
-   cd Network-Monitoring-tool
+    ```bash
+    git clone https://github.com/srihari-976/Network-Monitoring-tool.git
+    cd Network-Monitoring-tool
+
+## Screenshots
+![LoginPage Screenshot](dash.png)
+![Monitor tool Screenshot](dash.png)
 
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
